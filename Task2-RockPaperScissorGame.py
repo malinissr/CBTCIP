@@ -1,3 +1,12 @@
+'''ROCK PAPER SCISSOR GAME
+Winning rules:
+Rock vs Paper->Paper wins
+Rock vs Scissor->Rock wins
+paper vs Scissor->scissor wins'''
+
+
+
+
 import random
 
 print("Winning Rules of the game:\nRock vs paper->Paper wins\n"
