@@ -1,3 +1,13 @@
+'''MASTERMIND GAME
+It is a two player game. Player1 sets 4 digit number and 
+player 2 guess the number until the four digits are correct 
+and Player2 sets the number and it is a turn of Player1 to 
+guess the number it continues until all the digits are guessed 
+correctly and the winner is decided in minimum tries the player
+has guessed the number'''
+
+
+
 import random
 print("Welcome to Mastermind Game")
 print("Player 1 sets number")
