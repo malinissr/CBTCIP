@@ -52,10 +52,10 @@ else:
             n1 = int(input("Enter your next choice:"))
 print("Player1 guessed all the digits correctly in",s1,"tries")
 print("\n")
-if(s>s1):
-    print("Hurray!Player2 won the game!")
+if(s<s1):
+    print("-----------------------------Congratulations!Player2 won the game!----------------------------------")
 else:
-    print("Hurray!Player1 won the game")
+    print("-----------------------------Congratulations!Player1 won the game!----------------------------------")
 
 
 
